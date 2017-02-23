@@ -29,6 +29,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+#以下兩個gem改名字用
+#gem 'rename'
+#gem 'thor', '0.19.1'
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
